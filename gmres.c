@@ -1,10 +1,2 @@
-#include<stdio.h>
-#include<stdlib.h>
+#This is the source file
 
-
-
-int main()
-{
-
-  return 0;
-}
